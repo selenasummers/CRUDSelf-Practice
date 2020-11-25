@@ -1,0 +1,30 @@
+{
+  "name": "crudself-practice",
+  "version": "1.0.0",
+  "description": "CRUD Self-practice with NodeJS/Express/Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P.JaeNee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selenasummers/CRUDSelf-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/selenasummers/CRUDSelf-Practice/issues"
+  },
+  "homepage": "https://github.com/selenasummers/CRUDSelf-Practice#readme"
+}
